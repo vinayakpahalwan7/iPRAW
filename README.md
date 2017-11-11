@@ -1,7 +1,7 @@
 # iPRAW
 Python Reddit API Wrapper
 
-# basic_iPRAW.py
+# TO DO..
 
 1. Login to https://www.reddit.com/ 
 2. preferences -> apps -> create app (are you a developer ?).
