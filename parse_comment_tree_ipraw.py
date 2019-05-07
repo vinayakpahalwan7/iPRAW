@@ -1,6 +1,6 @@
 import praw
 
-reddit = praw.Reddit(client_id = 'UsTn8e_ZkjNl6g', client_secret = 'A9Uxm0cq1WQwfaiofWLh6BT47tA' , username = 'prawtutorial7' , password = 'vinayak123456', user_agent ='prawtutorial7')
+reddit = praw.Reddit(client_id = 'xxxxxxx', client_secret = 'xxxxxxx' , username = 'xxxxxxx' , password = 'xxxxxxx', user_agent ='xxxxxxx')
 
 subreddit = reddit.subreddit('Apple')
 
